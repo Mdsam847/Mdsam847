@@ -33,11 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdsam847&show_icons=true&theme=default&hide_border=true&title_color=0969da&icon_color=0969da)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mdsam847&layout=compact&theme=default&hide_border=true&title_color=0969da)
 
 ---
 
